@@ -62,3 +62,7 @@ Dataset digunakan sebagai data pelatihan, validasi, dan pengujian model Transfer
   
 - Hasil prediksi
 ![Hasil Prediksi](images/hasil-prediksi.png)
+
+Project by:
+Andina Putri Cahyani - Teknik Informatika
+Universitas PGRI Madiun
